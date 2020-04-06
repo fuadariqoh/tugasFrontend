@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "dobleh",
+      "password": "maungapain",
+      "role": "admin"
+    },
+    {
+      "username": "budi",
+      "password": "rahasia",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "username": "tes",
+      "password": "rahasia",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "",
+      "password": "asd",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "username": "berhasil",
+      "password": "123",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "username": "asd",
+      "password": "123",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "username": "tes1",
+      "password": "123",
+      "role": "user",
+      "id": 7
+    }
+  ],
+  "books": [
+    {
+      "judul": "Thinking Fast and Slow",
+      "deskripsi": "Thinking, Fast and Slow is a best-selling book published in 2011 by Nobel Memorial Prize in Economic Sciences laureate Daniel Kahneman. ",
+      "gambar": "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/8/6/14481426/14481426_345042ff-cbeb-4565-9097-457245f6b63f_668_1000.jpg",
+      "isibuku": "Edited : In 2002, Daniel Kahneman won the Nobel in economic science.",
+      "UserId": 2,
+      "id": 7
+    }
+  ]
+}
